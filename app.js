@@ -8,9 +8,9 @@ var jsxHeading = (
 <h1>welcome</h1>
       <p>This is a paragraph.</p>
       <ul>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
+        <li>bujji</li>
+        <li>deepthi</li>
+        <li>anu</li>
       </ul>
     </div>
 
